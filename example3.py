@@ -12,3 +12,7 @@ e = 25
 print(e)
 f = 28
 print(f)
+edad = 52
+lista1 = ["David" , "Vanegas" ,52, True, "Hello"]
+print(len(lista1))
+print(lista[1])

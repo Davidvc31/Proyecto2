@@ -8,3 +8,7 @@ print(c)
 #hello
 d = 20
 print(d)
+e = 25
+print(e)
+f = 28
+print(f)
